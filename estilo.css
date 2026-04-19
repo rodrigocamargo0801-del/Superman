@@ -1,0 +1,144 @@
+
+*{
+    font-family: monospace;
+}
+.topo{
+    border: 5px solid blue;
+    width: 100%;
+    padding: 20px 0px;
+    text-align: center;
+    font-size: 28px;
+    margin: 35px;
+    background-color:black;
+    
+    
+    
+}
+.banner{
+    
+    background-image: url("img/capa.jpg");
+    background-size: cover;
+    height: calc(100vh - 74px);
+}
+
+.galeria-imagem{
+     width: 100%;
+    box-shadow: 0px 0px 10px 3px #ffffff;
+    max-width: 1024px;
+    padding: 50px 20px;
+    
+    
+
+}
+
+
+
+    
+
+
+.imagem-secao-canais{
+    box-shadow: 0px 0px 10px 3px black;
+    width: 80%;
+    margin-bottom: 50px;
+}
+
+.temporada_superman{
+
+    box-shadow: 0px 0px 10px 3px #cac4c4;
+}
+
+.rodape{
+    box-shadow: 0px 10px 20px 5px #ffffff;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+}
+
+#secao-sinopse{
+    width: 100%;
+    padding: 50px 20px;
+    text-decoration: none;
+}
+
+.titulo-sinopse{
+    font-size: 36px;
+}
+
+.subtitulo-sinopse{
+    font-size: 28px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.paragrafo-sinopse{
+    font-size: 20px;
+    margin-bottom: 12px;
+}
+
+#secao-canais{
+    width: 100%;
+    padding: 50px 20px;
+}
+
+.subtitulo-canais{
+    font-size:28px;
+    margin-bottom: 50px;
+}
+.paragrafo-canais{
+    font-size: 20px;
+}
+
+#secao-temporada{
+    width: 100%;
+    padding: 50px 20px;
+}
+
+.subtitulo-temporada{
+    font-size:28px;
+    margin-bottom: 50px;
+}
+
+.temporada_1, .temporada_2, .temporada_3, .temporada_4{
+    width:100%;
+    margin-bottom: 40px;
+    
+    
+   
+}
+
+.paragrafo-temporadas{
+    font-size:16px;
+}
+
+.temporada_superman{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+#secao-imagens{
+
+    width:100%;
+    overflow: auto;
+
+}
+
+.subtitulo-secao-imagens{
+    font-size:28px;
+    margin-bottom: 50px;
+    
+}
+
+span, a{
+  font-size: 20px;
+  text-align:left;
+}
+
+.galeria-imagem_1, .galeria-imagem_2, .galeria-imagem_3, .galeria-imagem_4, .galeria-imagem_5, .galeria-imagem_6{
+
+     width:320px;
+     min-height: 220px;
+     margin: 25px 20px;
+
+}
+   
