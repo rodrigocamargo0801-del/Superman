@@ -16,7 +16,7 @@
 }
 .banner{
     
-    background-image: url("img/capa.jpg");
+    background-image: url("img/superman-capa.jpg");
     background-size: cover;
     height: calc(100vh - 74px);
 }
